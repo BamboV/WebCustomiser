@@ -13,3 +13,7 @@
     pointer-events: none;
 }
 
+.page_current_info {
+    display: none;
+}
+
