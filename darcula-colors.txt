@@ -1,0 +1,10 @@
+dark gray (background) - #232525
+orange - #CC7832
+blue - #6897BB
+ligth gray (text) - #A9B7C6
+green (string) - #6A8759
+green (PHPDOC) - #629755 
+purple (variable) - #9876AA
+ligth green - #A5C25C
+yellow (function) - #FFC66D
+gray (comment) - #808080

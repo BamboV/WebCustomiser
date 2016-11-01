@@ -1,0 +1,16 @@
+{
+    "manifest_version":2,
+    "name":"WebCustomiser",
+    "version":"0.1",
+    "description":"Web customiser",
+    "content_scripts":[
+        {
+            "matches":["*://vk.com/*"],
+            "css":["vk/style.css", "vk/my.css"]
+        },
+        {
+            "matches":["*://www.google.ru/*"],
+            "css":["google/style.css", "google/my.css"]
+        }
+    ]
+}

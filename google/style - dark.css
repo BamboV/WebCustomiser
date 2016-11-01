@@ -1,0 +1,28 @@
+#lst-ib,input,.gb_xb{background:transparent!important}
+html:not(#⁠),#hdtbSum{background:#111111!important}
+body.hp :not(#⁠) {color:#CCCCCC!important}
+:not(#⁠){color:#CCCCCC!important}
+:not(#⁠) option{color:#000!important}
+:not(#⁠) :link{color:#45788C!important}
+:not(#⁠) :visited{color:#A0A0A0!important}
+::selection{background-color:#CCCCCC!important;color:#111111!important;text-shadow:none!important}
+::-moz-selection{background-color:#CCCCCC!important;color:#111111!important;text-shadow:none!important}
+._Bs:not(#⁠),._LSh:not(#⁠),#irc_pc:not(#⁠),.mn-dwn-arw:not(#⁠){border-color:#CCCCCC transparent!important}
+.tnv-lt-arw:not(#⁠){border-color:transparent #CCCCCC!important}
+.goog-flat-menu-button-dropdown{border-color:#CCCCCC transparent!important}
+.gb_Wa,.gb_Xa{border-color:transparent transparent #111111!important}
+/*search bar*/#sfdiv{border:1px solid #FFF!important} #sfdiv.sbhcn{border:1px solid #A0A0A0!important} #sfdiv.sbfcn{border:1px solid #4D90FE!important}
+.ab_button,:not(#sfdiv):not(#nqsbq):not(.mn-dwn-arw):not(._Bs):not(.goog-flat-menu-button-dropdown):not(#gt-src-wrap):not(#gt-res-wrap):not([type="email"]):not([type="password"]):not([aria-hidden]):not([role="menu"]):not([aria-expanded]):not([type="text"]){border:none!important}
+:not([title]):not(.gb_xb),[title^="Results"]{background-color:transparent!important}
+[role="listbox"]:not(#⁠),[aria-hidden="false"]:not(#⁠),[style*="z-index: 2000"]:not(#⁠),[role="menu"]:not(#hdtb-more),
+[aria-label="Account Information"]:not(#⁠),[id^="gbd"]:not(#⁠),[class$="dlg"]:not(#⁠),#fsett:not(#⁠),
+#ab_options:not(#⁠),.crp:not(#⁠),.hdtb-mn-o:not(#⁠),.ab_dropdown:not(#⁠),.popupContent:not(#⁠),.jfk-scrollbar:not(#⁠){background-color:#111111!important}
+.sfbgg,.card-mask{background-image:none!important}
+.ab_button,[role="button"]:not(.gb_Rb),[type="submit"],[type="button"],.goog-flat-menu-button:not(#⁠){background:transparent!important}
+[aria-label="promo"]{display:none!important}
+[aria-hidden],[role="menu"],[aria-expanded]{border-color:gray!important}
+:not(#⁠) .gb_Wb {background-image:url(http://ssl.gstatic.com/gb/images/v1_76783e20.png)!important;background-size:92px 2541px!important}
+:not(#⁠) .gb_b {background-position:-60px -1675px!important}
+:not(#⁠) .gb_uc.gb_vc {background-position:0 -1921px!important;background-color:white!important}
+nav svg,[role="toolbar"] svg,[role="menu"] svg,[role="button"] svg[fill="#000000"] {filter:invert(1)!important}
+.ab_icon{filter:invert(1);-webkit-filter:invert(1)}

@@ -1,0 +1,15 @@
+.repeat_ver
+{
+    display: none !important;
+}
+
+.post_like
+{
+    pointer-events: none;
+}
+
+.like_wrap
+{
+    pointer-events: none;
+}
+
