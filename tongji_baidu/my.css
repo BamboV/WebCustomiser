@@ -1,0 +1,15 @@
+.aside {
+	width: 500px;
+}
+
+.nav {
+	width: 500px!important;
+}
+
+.main {
+	margin-left: 500px!important;
+}
+
+.nav-wrapper {
+	width: 500px!important;
+}

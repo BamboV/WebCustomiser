@@ -11,6 +11,18 @@
         {
             "matches":["*://www.google.ru/*"],
             "css":["google/style.css", "google/my.css"]
+        },
+        {
+            "matches":["*://tongji.baidu.com/**"],
+            "css":["tongji_baidu/my.css"]
+        },
+	{
+	    "matches":["*://mp.weixin.qq.com/**"],
+	    "css":["wechat/my.css"]
+	},
+	{
+            "matches":["*://open.weixin.qq.com/**"],
+            "css":["wechat2/my.css"]
         }
     ]
 }
